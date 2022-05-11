@@ -1,0 +1,51 @@
+/*body*/
+.center {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 100%;
+}
+
+.center2 {
+    display: block;
+    width: 450;
+    height: 250;
+}
+
+/*Home*/
+.narrative1 {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.quotes {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*quotes*/
+.row {
+    display: flex;
+  }
+  
+.column {
+    flex: 200%;
+    text-align: center;
+  }
+
+/*About*/
+.narrative2 {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*footer*/
+.socials {
+    background-color: lightgrey;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    text-align: center;
+}
