@@ -13,7 +13,6 @@
 }
 
 /*Home*/
-
 .narrative1 {
    text-align: center;
 }
@@ -27,17 +26,25 @@
 /*quotes*/
 .row {
     display: flex;
-  }
+}
   
 .column {
-    flex: 200%;
+    flex: 100%;
+    padding-left: 33.33px 0 0;
+    padding-right: 33.33px 0 0;
     text-align: center;
-  }
 
-/*newsletter*/
-.row-g-3 .col-sm-2 .form-control .btn-btn-outline-secondary {
-    padding-left: 20px;
 }
+
+/*gallery*/
+.gallery {
+    flex: 100%;
+    padding-left: 33.33px 0 0;
+    padding-right: 33.33px 0 0;
+    text-align: center;
+
+}
+
 /*About*/
 .narrative2 {
     text-align: center;
@@ -47,14 +54,6 @@
 
 /*contact*/
 .narrative3 {
-    text-align: center;
-}
-
-/*gallery*/
-.gallery {
-    flex: 200%;
-    padding-left: 25px 0 0 25px;
-    padding-right: 25px 0 0 25px;
     text-align: center;
 }
 
